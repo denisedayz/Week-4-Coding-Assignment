@@ -1,2 +1,2 @@
 # Week-4-Coding-Assignment
-Creating this before begin coding
+This week all problems are in one class
